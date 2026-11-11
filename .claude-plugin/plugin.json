@@ -1,0 +1,8 @@
+{
+  "name": "ai-cybersecurity",
+  "version": "1.0.1",
+  "description": "Read-only, evidence-based security audits against 84 controls with a live watch list, secure coding guidance from OWASP Top 10:2025, ASVS 5.0, LLM Top 10 2026 and Agentic Top 10 2026, OWASP GenAI reference texts, and the full addyosmani/agent-skills engineering pack.",
+  "author": { "name": "MESHARI" },
+  "license": "SEE LICENSE IN THIRD_PARTY_NOTICES.md",
+  "keywords": ["security", "audit", "owasp", "asvs", "llm-security", "agent-security", "mcp", "secure-coding"]
+}
